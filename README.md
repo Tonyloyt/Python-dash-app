@@ -6,7 +6,7 @@ Welcome
 
 1. Clone this project
 
-```bash
+```git
 git clone https://github.com/Tonyloyt/Python-dash-app.git
 ```
 
@@ -18,24 +18,24 @@ cd Python-dash-app/
 
 3. Create virtual environment
 
-```bash
+```python
 python -m venv venv
 ```
 
 4. Activate virtual environment
 
-```
+```python
 source venv/bin/activate
 ```
 
 5. Install libraries
 
-```bash
+```python
 pip install -r requirements.txt
 ```
 
 6. Start your dash app
 
-```bash
+```python
 python src/app.y
 ```
